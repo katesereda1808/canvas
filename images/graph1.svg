@@ -1,0 +1,36 @@
+<svg width="750" height="430" viewBox="0 0 750 430" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="750" height="430" fill="#C4C4C4"/>
+<line x1="35.5" y1="43" x2="35.5" y2="399" stroke="black"/>
+<line x1="719" y1="399.5" x2="35" y2="399.5" stroke="black"/>
+<line x1="81.7" y1="265.6" x2="121.7" y2="235.6" stroke="black"/>
+<line x1="161.7" y1="266.4" x2="121.7" y2="236.4" stroke="black"/>
+<line x1="162.3" y1="265.6" x2="202.3" y2="295.6" stroke="black"/>
+<line x1="242.3" y1="266.4" x2="202.3" y2="296.4" stroke="black"/>
+<line x1="241.89" y1="265.512" x2="281.89" y2="256.512" stroke="black"/>
+<line x1="321.676" y1="291.381" x2="281.676" y2="257.381" stroke="black"/>
+<line x1="321.534" y1="290.819" x2="361.534" y2="187.819" stroke="black"/>
+<line x1="401.616" y1="236.32" x2="361.616" y2="188.32" stroke="black"/>
+<line x1="401.7" y1="235.6" x2="441.7" y2="205.6" stroke="black"/>
+<line x1="481.536" y1="306.186" x2="441.536" y2="206.186" stroke="black"/>
+<line x1="481.553" y1="305.776" x2="521.553" y2="225.776" stroke="black"/>
+<line x1="562.3" y1="196.4" x2="522.3" y2="226.4" stroke="black"/>
+<line x1="562.447" y1="195.776" x2="602.447" y2="275.776" stroke="black"/>
+<line x1="642.3" y1="246.4" x2="602.3" y2="276.4" stroke="black"/>
+<line x1="642.224" y1="245.553" x2="682.224" y2="265.553" stroke="black"/>
+<circle cx="82" cy="266" r="5.5" fill="white" stroke="black"/>
+<circle cx="122" cy="236" r="5.5" fill="white" stroke="black"/>
+<circle cx="162" cy="266" r="5.5" fill="white" stroke="black"/>
+<circle cx="202" cy="296" r="5.5" fill="white" stroke="black"/>
+<circle cx="242" cy="266" r="5.5" fill="white" stroke="black"/>
+<circle cx="282" cy="257" r="5.5" fill="white" stroke="black"/>
+<circle cx="322" cy="291" r="5.5" fill="white" stroke="black"/>
+<circle cx="362" cy="188" r="5.5" fill="white" stroke="black"/>
+<circle cx="402" cy="236" r="5.5" fill="white" stroke="black"/>
+<circle cx="562" cy="196" r="5.5" fill="white" stroke="black"/>
+<circle cx="442" cy="206" r="5.5" fill="white" stroke="black"/>
+<circle cx="602" cy="276" r="5.5" fill="white" stroke="black"/>
+<circle cx="482" cy="306" r="5.5" fill="white" stroke="black"/>
+<circle cx="642" cy="246" r="5.5" fill="white" stroke="black"/>
+<circle cx="522" cy="226" r="5.5" fill="white" stroke="black"/>
+<circle cx="682" cy="266" r="5.5" fill="white" stroke="black"/>
+</svg>
